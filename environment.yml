@@ -1,0 +1,13 @@
+name: groundtrack
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- cartopy
+- jupyter
+- pandas
+- sgp4
+- requests
+- pip:
+  - https://github.com/inakimalerba/orbit-predictor/archive/norad-source.zip
