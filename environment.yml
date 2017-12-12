@@ -10,4 +10,4 @@ dependencies:
 - sgp4
 - requests
 - pip:
-  - https://github.com/inakimalerba/orbit-predictor/archive/norad-source.zip
+  - https://github.com/satellogic/orbit-predictor/archive/master.zip
